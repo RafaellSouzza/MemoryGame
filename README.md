@@ -6,4 +6,4 @@
 >Botão de iniciar e reiniciar o jogo, esse botão faz com que você inicie o jogo com as cartas em suas posições randômicas 
 
 
-(/imagens/Captura de tela 2021-09-21 211734.png)
+![plot](./imagens/Captura de tela 2021-09-21 211734.png)
