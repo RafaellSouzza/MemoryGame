@@ -6,4 +6,4 @@
 >Botão de iniciar e reiniciar o jogo, esse botão faz com que você inicie o jogo com as cartas em suas posições randômicas 
 
 
-![plot](./imagens/Captura de tela 2021-09-21 211734.png)
+![alt text](https://github.com/RafaellSouzza/MemoryGame/blob/main/imagens/Captura%20de%20tela%202021-09-21%20211734.png)
